@@ -25,6 +25,3 @@ if st.button("Run Logic"):
     st.success(greeting)
     st.info(f"{number_input} multiplied by 2 is {doubled}.")
 
-# ✅ You can also add more logic or display anything you like
-# st.write("---")
-# st.write("Tip: Edit this file to add more functionality as needed.")
